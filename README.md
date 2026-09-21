@@ -13,3 +13,9 @@ I thought it was super interesting that AI is able to work on a problem that mat
 I also found this article really interesting because it shows how AI can be used for more than just generating text or answering simple questions. Using AI to help explore a difficult math problem like the Navier-Stokes problem shows its potential in scientific research. I think this could be especially useful for helping researchers test new ideas and approach complex problems in different ways.
 
 — Tony Zhou
+
+### Jiayu Tang's Comment
+
+I also found this article really interesting because it shows how AI can be used for more than just generating text or answering simple questions. Using AI to help explore a difficult math problem like the Navier-Stokes problem shows its potential in scientific research. I think this could be especially useful for helping researchers test new ideas and approach complex problems in different ways.
+
+— Jiayu Tang
